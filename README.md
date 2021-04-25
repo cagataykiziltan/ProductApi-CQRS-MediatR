@@ -23,6 +23,8 @@ Onion architecture was used in the project.
 **ProductApi.Infrastructure** : Layer for data access and some infra components. Repository and Unit of work pattern were used to access data.  <br/>
 **ProductApi.Application** :  This is the layer used for transaction management and CQRS pattern.  <br/>
 **ProductApi.Presentation** :  Api Layer to present api to clients.  <br/>
+**ProductApi.Application.Tests** :  Unit tests for application layer.  <br/>
+**ProductApi.Domain.Tests** :  Unit tests for domain layer.  <br/>
 
 ![Capture](https://user-images.githubusercontent.com/45563744/115993555-0b8b5180-a5dc-11eb-93a0-4d5a603fe5a8.PNG)
 
