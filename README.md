@@ -13,7 +13,7 @@ Project includes operations...
 **SearchProductsByTitle** : Searchs product with the product title. <br/>
 **SearchProductsByCategoryName**: Searchs product with the category name. <br/>
 
-and all products must be have a category.
+and all products must have a category.
 
 # PROJECT ARCHITECTURE
 
