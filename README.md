@@ -1,5 +1,5 @@
 # ProductApi-CQRS-MediatR
-A Product CRUD Api Example with CQRS pattern, MediatR and Unit tests 
+A Product CRUD Api Example with CQRS pattern, MediatR and Unit tests  <br/>
 Author : M.Çağatay KIZILTAN
 
 # PROJECT LOGIC
