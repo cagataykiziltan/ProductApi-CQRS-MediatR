@@ -18,6 +18,7 @@ namespace ProductService.Application.Tests.ProductHandlerTests.Commands
         private readonly UpdateProductCommandHandler _updateProductCommandHandler;
         private readonly Mock<IUnitOfWork> _mockUnitOfWork;
         private readonly Mock<IMediator> _mediatoR;
+      
         public UpdateProductCommandHandlerTests()
         {
             _mediatoR = new Mock<IMediator>();
