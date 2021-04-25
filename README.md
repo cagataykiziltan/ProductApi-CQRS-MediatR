@@ -1,5 +1,6 @@
 # ProductApi-CQRS-MediatR
-A Product CRUD Api Example with CQRS pattern, MediatR and Unit tests
+A Product CRUD Api Example with CQRS pattern, MediatR and Unit tests 
+Author : M.Çağatay KIZILTAN
 
 # PROJECT LOGIC
 
@@ -41,5 +42,3 @@ For layers, all dependencies, directly or indirectly, go into domain layer. Howe
 **Events** :  Events catch the events like productCreated, productUpdated or productDeleted and take action depending on event.<br/>
 
 For managing relations and business case flows MediatR was used
-
-Author : M.Çağatay KIZILTAN
