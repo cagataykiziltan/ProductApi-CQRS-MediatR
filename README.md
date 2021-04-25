@@ -24,7 +24,7 @@ ProductApi.Infrastructure : Layer for data access and some infra components. Rep
 ProductApi.Application : This is the layer used for transaction management and CQRS pattern.
 ProductApi.Presentation : Api Layer to present api to clients.
 
-![Capture](https://user-images.githubusercontent.com/45563744/115993555-0b8b5180-a5dc-11eb-93a0-4d5a603fe5a8.PNG)
+                         ![Capture](https://user-images.githubusercontent.com/45563744/115993555-0b8b5180-a5dc-11eb-93a0-4d5a603fe5a8.PNG)
 
 For layers, all dependencies, directly or indirectly, go into domain layer. However domain layer is not depend on any layer.
 
