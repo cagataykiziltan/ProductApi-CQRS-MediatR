@@ -1,0 +1,5 @@
+C:\Users\LENOVO\source\repos\LogiwaMerchandising\LogiwaMerchandising.Application\bin\Debug\netcoreapp2.2\LogiwaMerchandising.Domain.dll
+C:\Users\LENOVO\source\repos\LogiwaMerchandising\LogiwaMerchandising.Application\obj\Debug\netcoreapp2.2\LogiwaMerchandising.Application.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\LogiwaMerchandising\LogiwaMerchandising.Application\obj\Debug\netcoreapp2.2\LogiwaMerchandising.Application.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\LogiwaMerchandising\LogiwaMerchandising.Application\obj\Debug\netcoreapp2.2\LogiwaMerchandising.Application.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\LogiwaMerchandising\LogiwaMerchandising.Application\obj\Debug\netcoreapp2.2\LogiwaMerchandising.Application.AssemblyInfo.cs

@@ -1,0 +1,148 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Users\\26042028\\OneDrive - ARÇELİK A.Ş\\Desktop\\LogiwaMerchandisingApp\\src\\LogiwaMerchandising.Application\\LogiwaMerchandising.Application.csproj": {}
+  },
+  "projects": {
+    "D:\\Users\\26042028\\OneDrive - ARÇELİK A.Ş\\Desktop\\LogiwaMerchandisingApp\\src\\LogiwaMerchandising.Application\\LogiwaMerchandising.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Users\\26042028\\OneDrive - ARÇELİK A.Ş\\Desktop\\LogiwaMerchandisingApp\\src\\LogiwaMerchandising.Application\\LogiwaMerchandising.Application.csproj",
+        "projectName": "LogiwaMerchandising.Application",
+        "projectPath": "D:\\Users\\26042028\\OneDrive - ARÇELİK A.Ş\\Desktop\\LogiwaMerchandisingApp\\src\\LogiwaMerchandising.Application\\LogiwaMerchandising.Application.csproj",
+        "packagesPath": "C:\\Users\\26042028\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\26042028\\OneDrive - ARÇELİK A.Ş\\Desktop\\LogiwaMerchandisingApp\\src\\LogiwaMerchandising.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "D:\\Users\\26042028\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Users\\26042028\\OneDrive - ARÇELİK A.Ş\\Desktop\\LogiwaMerchandisingApp\\src\\LogiwaMerchandising.Domain\\LogiwaMerchandising.Domain.csproj": {
+                "projectPath": "D:\\Users\\26042028\\OneDrive - ARÇELİK A.Ş\\Desktop\\LogiwaMerchandisingApp\\src\\LogiwaMerchandising.Domain\\LogiwaMerchandising.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "MethodBoundaryAspect.Fody": {
+              "target": "Package",
+              "version": "[2.0.139, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Users\\26042028\\OneDrive - ARÇELİK A.Ş\\Desktop\\LogiwaMerchandisingApp\\src\\LogiwaMerchandising.Domain\\LogiwaMerchandising.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Users\\26042028\\OneDrive - ARÇELİK A.Ş\\Desktop\\LogiwaMerchandisingApp\\src\\LogiwaMerchandising.Domain\\LogiwaMerchandising.Domain.csproj",
+        "projectName": "LogiwaMerchandising.Domain",
+        "projectPath": "D:\\Users\\26042028\\OneDrive - ARÇELİK A.Ş\\Desktop\\LogiwaMerchandisingApp\\src\\LogiwaMerchandising.Domain\\LogiwaMerchandising.Domain.csproj",
+        "packagesPath": "C:\\Users\\26042028\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\26042028\\OneDrive - ARÇELİK A.Ş\\Desktop\\LogiwaMerchandisingApp\\src\\LogiwaMerchandising.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "D:\\Users\\26042028\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
