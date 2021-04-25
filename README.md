@@ -1,7 +1,7 @@
 # ProductApi-CQRS-MediatR
 A Product CRUD Api Example with CQRS pattern, MediatR and Unit tests
 
-**PROJECT LOGIC**
+# PROJECT LOGIC
 
 Project includes operations...
 
@@ -11,11 +11,11 @@ Project includes operations...
 **UpdateProduct** : Updates product. <br/>
 **SearchProductsByDescription** : Searchs product with the product description. <br/>
 **SearchProductsByTitle** : Searchs product with the product title. <br/>
-**SearchProductsByCategoryName **: Searchs product with the category name. <br/>
+**SearchProductsByCategoryName**: Searchs product with the category name. <br/>
 
 and all products must be have a category.
 
-**PROJECT ARCHITECTURE**
+# PROJECT ARCHITECTURE
 
 Onion architecture was used in the project.
 
@@ -29,5 +29,14 @@ Onion architecture was used in the project.
 For layers, all dependencies, directly or indirectly, go into domain layer. However domain layer is not depend on any layer.
 
 ![Capture2](https://user-images.githubusercontent.com/45563744/115993757-ea773080-a5dc-11eb-9c28-6b81142c89da.PNG)
+
+# CQRS
+
+**Commands** : includes operation request/response models changing data resource like create, update delete.<br/>
+**Query** : includes operation request/response models querying data resource.<br/>
+**Handlers** : includes operations itself like CRUD or business.<br/>
+**Events** :  Events catch the events like productCreated, productUpdated or productDeleted and take action depending on event.<br/>
+
+For managing relations and business case flows MediatR was used
 
 Author : M.Çağatay KIZILTAN
