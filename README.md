@@ -12,6 +12,7 @@ Project includes operations...
 **SearchProductsByDescription** : Searchs product with the product description. <br/>
 **SearchProductsByTitle** : Searchs product with the product title. <br/>
 **SearchProductsByCategoryName**: Searchs product with the category name. <br/>
+**SearchProductsByStockInterval**: Searchs product with interval between min stock and max stock. <br/>
 
 and all products must have a category.
 
